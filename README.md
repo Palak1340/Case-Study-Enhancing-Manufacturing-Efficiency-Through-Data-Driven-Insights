@@ -13,34 +13,34 @@ Your objective is to utilize Power BI to analyze and interpret these manufacturi
 
 The "ManufacturingDataset1.xlsx" file contains the following columns:
 
-1.ProductID: A unique identifier for each product. (Primary Key)
+1. ProductID: A unique identifier for each product. (Primary Key)
 
-2.ProductType: The type of the product (e.g., Electronics, Furniture).
+2. ProductType: The type of the product (e.g., Electronics, Furniture).
 
-3.ProductionDate: The date when the product was manufactured.
+3. ProductionDate: The date when the product was manufactured.
 
-4.ProductionCost: The cost of producing the product.
+4. ProductionCost: The cost of producing the product.
 
-5.CountryOfOrigin: The country where the product was manufactured.
+5. CountryOfOrigin: The country where the product was manufactured.
 
-6.QuantityProduced: The quantity of the product produced.
+6. QuantityProduced: The quantity of the product produced.
 
-7.WarehouseLocation: The location of the warehouse where the product is stored.
+7. WarehouseLocation: The location of the warehouse where the product is stored.
 
 The "ManufacturingDataset2.xlsx" file contains the following columns:
 
-1.EmployeeID: A unique identifier for each employee.
+1. EmployeeID: A unique identifier for each employee.
 
-2.Department: The department in which the employee works.
+2. Department: The department in which the employee works.
 
-3.HireDate: The date when the employee was hired.
+3. HireDate: The date when the employee was hired.
 
-4.Salary: The salary of the employee.
+4. Salary: The salary of the employee.
 
-5.CountryOfOperation: The country where the employee operates.
+5. CountryOfOperation: The country where the employee operates.
 
-6.ProductID: A unique identifier for products, corresponding to 'ProductID' in "ManufacturingDataset1.xlsx". (Foreign Key)
+6. ProductID: A unique identifier for products, corresponding to 'ProductID' in "ManufacturingDataset1.xlsx". (Foreign Key)
 
-7.PerformanceRating: The performance rating of the employee (out of 10).
+7. PerformanceRating: The performance rating of the employee (out of 10).
 
-8.Employee Training Record: Training records for each employee.
+8. Employee Training Record: Training records for each employee.
